@@ -1,3 +1,6 @@
 [submodule "CSC180-A1"]
 	path = CSC180-A1
 	url = https://github.com/glorikaan/CSC180-A1.git
+[submodule "CSC180-A2"]
+	path = CSC180-A2
+	url = https://github.com/glorikaan/CSC180-A2.git
